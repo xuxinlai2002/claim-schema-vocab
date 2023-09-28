@@ -5,7 +5,7 @@
     "id": "@id",
     "type": "@type",
     "Iden3IdentityNetwork": {
-      "@id": "https://raw.githubusercontent.com/iden3/claim-schema-vocab/main/schemas/json-ld/genesis-network.json-ld#Iden3IdentityNetwork",
+      "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/genesis-network.json-ld#Iden3IdentityNetwork",
       "@context": {
         "@version": 1.1,
         "@protected": true,

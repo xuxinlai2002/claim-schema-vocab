@@ -1,7 +1,7 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/iden3/claim-schema-vocab/main/schemas/json-ld/player-nonmerklized.jsonld"
+            "jsonLdContext": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/player-nonmerklized.jsonld"
         },
         "version": "1.0",
         "type": "Player"

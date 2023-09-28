@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/iden3/claim-schema-vocab/main/schemas/json-ld/complex-struct-v1.jsonld",
-      "jsonSchema": "https://raw.githubusercontent.com/iden3/claim-schema-vocab/main/schemas/json/complex-struct-v1.json"
+      "jsonLdContext": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/complex-struct-v1.jsonld",
+      "jsonSchema": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json/complex-struct-v1.json"
     }
   },
   "required": [
