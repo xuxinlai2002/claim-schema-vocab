@@ -68,7 +68,7 @@ Each credentialSchema MUST specify its type (for example, JsonSchemaValidator201
 ```
 credentialSchema subject example
 "credentialSchema": {
-"@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json/KYCAgeCredential.json",
+"@id": "http://47.242.107.228:3003/schemas/json/KYCAgeCredential.json",
 "type": "JsonSchemaValidator2018"
 }
 ```
@@ -129,4 +129,4 @@ type - property, which expresses the credential status type, now it's `SparseMet
 # Iden3JSONLDValidator
 
 a type of validator that can be used to syntactically validate JSON-LD documents and transform the credential data into a format, which can then be used by a user to generate a valid zero-knowledge proof.
-To get schema validator need to make request <credentialSchema.id>#<credentialSubject.type>. Example: `http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/kyc-v2.json-ld#KYCAgeCredential`
+To get schema validator need to make request <credentialSchema.id>#<credentialSubject.type>. Example: `http://47.242.107.228:3003/schemas/json-ld/kyc-v2.json-ld#KYCAgeCredential`

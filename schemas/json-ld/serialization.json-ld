@@ -14,7 +14,7 @@
           "@container": "@list"
       },
       "Index": {
-        "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/serialization.json-ld#Index",
+        "@id": "http://47.242.107.228:3003/schemas/json-ld/serialization.json-ld#Index",
         "@context": {
           "@version": 1.1,
           "@protected": true,
@@ -35,7 +35,7 @@
         }
       },
       "Value": {
-        "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/serialization.json-ld#Value",
+        "@id": "http://47.242.107.228:3003/schemas/json-ld/serialization.json-ld#Value",
         "@context": {
           "@version": 1.1,
           "@protected": true,
@@ -56,7 +56,7 @@
         }
       },
       "IndexDataSlotA": {
-        "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/serialization.json-ld#IndexDataSlotA",
+        "@id": "http://47.242.107.228:3003/schemas/json-ld/serialization.json-ld#IndexDataSlotA",
         "@context": {
           "@version": 1.1,
           "@protected": true,
@@ -74,7 +74,7 @@
         }
       },
       "IndexDataSlotB": {
-        "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/serialization.json-ld#IndexDataSlotB",
+        "@id": "http://47.242.107.228:3003/schemas/json-ld/serialization.json-ld#IndexDataSlotB",
         "@context": {
           "@version": 1.1,
           "@protected": true,
@@ -92,7 +92,7 @@
         }
       },
       "ValueDataSlotA": {
-        "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/serialization.json-ld#ValueDataSlotA",
+        "@id": "http://47.242.107.228:3003/schemas/json-ld/serialization.json-ld#ValueDataSlotA",
         "@context": {
           "@version": 1.1,
           "@protected": true,
@@ -110,7 +110,7 @@
         }
       },
       "ValueDataSlotB": {
-        "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/serialization.json-ld#ValueDataSlotB",
+        "@id": "http://47.242.107.228:3003/schemas/json-ld/serialization.json-ld#ValueDataSlotB",
         "@context": {
           "@version": 1.1,
           "@protected": true,

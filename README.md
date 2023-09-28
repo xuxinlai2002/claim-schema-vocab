@@ -23,8 +23,8 @@ The repository structure is following:
        {
            "id": "8af6c48a-547a-4af6-a1c6-b4c049691cd2",
            "@context": [
-               "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/iden3credential.json-ld",
-               "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/kyc.json-ld"
+               "http://47.242.107.228:3003/schemas/json-ld/iden3credential.json-ld",
+               "http://47.242.107.228:3003/schemas/json-ld/kyc.json-ld"
            ],
            "@type": [
                "Iden3Credential"
@@ -46,7 +46,7 @@ The repository structure is following:
                "type": "SparseMetkleTreeProof"
            },
            "credentialSchema": {
-               "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json/KYCAgeCredential.json",
+               "@id": "http://47.242.107.228:3003/schemas/json/KYCAgeCredential.json",
                "type": "JsonSchemaValidator2018"
            },
            "proof": [

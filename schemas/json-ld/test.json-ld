@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "KYCAgeCredential": {
-        "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/kyc.json-ld#KYCAgeCredential",
+        "@id": "http://47.242.107.228:3003/schemas/json-ld/kyc.json-ld#KYCAgeCredential",
         "@context": {
           "@version": 1.1,
           "@protected": true,
@@ -25,7 +25,7 @@
         }
       },
       "KYCCountryOfResidenceCredential": {
-        "@id": "http://47.242.107.228:3003/iden3/claim-schema-vocab/main/schemas/json-ld/kyc.json-ld#KYCCountryOfResidenceCredential",
+        "@id": "http://47.242.107.228:3003/schemas/json-ld/kyc.json-ld#KYCCountryOfResidenceCredential",
         "@context": {
           "@version": 1.1,
           "@protected": true,
